@@ -9,6 +9,11 @@ Please make sure you have installed all the relevany dependencies and code compi
 ### Run
 Please set BestNStories as default project and hit F5, which will launch a browser and load the api documentation; this interactive swagger UI can be used to test the api as well.
 
+![Swagger UI](https://github.com/vmyilsamy/HackerRankStories/assets/9333379/0baf3afe-bdcc-4e59-9297-aec24b958fac)
+
+![Swagger UI with Response](https://github.com/vmyilsamy/HackerRankStories/assets/9333379/e31ececf-e5b7-4276-a4b3-90732601d602)
+
+
 ### Considerations
 -- To address the specification about "not overloading of the Hacker News API", I have used caching mechanism which efficiently caches both best story ids as well as individual stories for a day and the cache expires after a day.
 
