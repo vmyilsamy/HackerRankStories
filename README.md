@@ -16,6 +16,8 @@ Please set BestNStories as default project and hit F5, which will launch a brows
 
 -- Unit testing I've followed BDD style unit testing which is quite efficient to manage in the long run, when things are complicated this style of unit test will definitely help
 
+As you can below the unit test output clearly states what the intention of the test. This helps in the long run.
+
 ![BDD style nunit tests](https://github.com/vmyilsamy/HackerRankStories/assets/9333379/b71be3f3-4e1f-48d0-8bdf-d8f6952ec4d9)
 
 
