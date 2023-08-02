@@ -28,6 +28,8 @@ As you can below the unit test output clearly states what the intention of the t
 
 ### Given more time, things I would like to do...
 
+- Better API documentation
+- Move constants to app settings(For ex: max degree of parallelism, cache expiration duration)
 - Add resilience by using Polly
 - Add security (authentication and authorisation)
 - Include loggine middleware using Serilog
